@@ -1,4 +1,4 @@
-# Clueless About The Cost of AI Model Usage? OpenCost+llm-d = first of a kind inference cost tracking 
+# Clueless About The Cost of Self Hosted AI Model Usage? OpenCost+llm-d = first of a kind inference cost tracking 
 
 
 **Authors: Sima Nadler, Senior Program Manager, IBM Research; Alex Meijer, OpenCost Maintainer, IBM**
@@ -7,7 +7,7 @@
 
 Your GPU bill is rising. Your models are serving billions of tokens. And yet one question remains unanswered: what does each token actually cost?
 
-This is not a hypothetical problem. Platform teams today operate in a fog regarding AI inference costs — they see infrastructure spend, they track token throughput, but the connection between those numbers is invisible. Without per-model and per-token costs derived from actual resource consumption, every decision becomes a gamble.
+This is not a hypothetical problem. Platform teams today self hosting AI models operate in a fog regarding AI inference costs — they see infrastructure spend, they track token throughput, but the connection between those numbers is invisible. Without per-model and per-token costs derived from actual resource consumption, every decision becomes a gamble.
 
 - Is self-hosting cheaper than using a SaaS API? You're guessing.
 - Which model is actually cost-efficient at your traffic levels? The data doesn't exist.
